@@ -23,16 +23,16 @@
 /* End PBXGroup section */
 
 /* Begin PBXLegacyTarget section */
-		39FC0EFE2790C64200F7AA8E /* mongoDBtutorial */ = {
+		39FC0EFE2790C64200F7AA8E /* mongoDB-essentials-script */ = {
 			isa = PBXLegacyTarget;
 			buildArgumentsString = "$(ACTION)";
-			buildConfigurationList = 39FC0F012790C64200F7AA8E /* Build configuration list for PBXLegacyTarget "mongoDBtutorial" */;
+			buildConfigurationList = 39FC0F012790C64200F7AA8E /* Build configuration list for PBXLegacyTarget "mongoDB-essentials-script" */;
 			buildPhases = (
 			);
 			buildToolPath = /usr/bin/python3;
 			dependencies = (
 			);
-			name = mongoDBtutorial;
+			name = "mongoDB-essentials-script";
 			passBuildSettingsInEnvironment = 1;
 			productName = mongoDBtutorial;
 		};
@@ -50,7 +50,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 39FC0EFD2790C64200F7AA8E /* Build configuration list for PBXProject "mongoDBtutorial" */;
+			buildConfigurationList = 39FC0EFD2790C64200F7AA8E /* Build configuration list for PBXProject "mongoDB-essentials-script" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -62,7 +62,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				39FC0EFE2790C64200F7AA8E /* mongoDBtutorial */,
+				39FC0EFE2790C64200F7AA8E /* mongoDB-essentials-script */,
 			);
 		};
 /* End PBXProject section */
@@ -203,7 +203,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		39FC0EFD2790C64200F7AA8E /* Build configuration list for PBXProject "mongoDBtutorial" */ = {
+		39FC0EFD2790C64200F7AA8E /* Build configuration list for PBXProject "mongoDB-essentials-script" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				39FC0EFF2790C64200F7AA8E /* Debug */,
@@ -212,7 +212,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		39FC0F012790C64200F7AA8E /* Build configuration list for PBXLegacyTarget "mongoDBtutorial" */ = {
+		39FC0F012790C64200F7AA8E /* Build configuration list for PBXLegacyTarget "mongoDB-essentials-script" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				39FC0F022790C64200F7AA8E /* Debug */,
